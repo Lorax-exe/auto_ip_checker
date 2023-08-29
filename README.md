@@ -7,4 +7,4 @@ This one takes the CSV with the list of IPs as an argument and then outputs a JS
 
 
 ## daje.py
-Does the samething, just using a GUI, it does also display which ones are harmful and whichones aren't, it's not pretty but works (you have to put in your API key before using it)
+Does the same thing, just using a GUI, it does also display which ones are harmful and whichones aren't, it's not pretty but works (you have to put in your API key before using it)
