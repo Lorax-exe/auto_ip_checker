@@ -1,3 +1,8 @@
+# WARNING
+doesn't really work, I have a working version, I will upload it one day
+
+
+
 # AUTOMATIC VT CHECKER
 Program that automates the checking of IPs with VT (it's meant for IPs but you can do wathever, might update later on)
 
